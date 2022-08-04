@@ -1,5 +1,8 @@
 ### Всем привет, меня зовут Елена👋
 
+<div id="header" align="left">
+  <img src="https://media.giphy.com/media/EOmYN5kVP3W2Lyn6dx/giphy.gif" width="150"/>
+</div>
 
 - 🔭 Начинающий фронтенд разработчик, выпускница Яндекс.Практикум
 - 🌱 В настоящее время осваиваю JS и React, хотелось бы изучить и другие фрейморки
@@ -23,9 +26,7 @@ Telegram: heavyRain1327, email: ikelast@mail.ru
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
 </div>
 
-<div id="header" align="left">
-  <img src="https://media.giphy.com/media/EOmYN5kVP3W2Lyn6dx/giphy.gif" width="200"/>
-</div>
+
 
 ---
 
