@@ -26,3 +26,8 @@ Telegram: heavyRain1327, email: ikelast@mail.ru
 <div id="header" align="left">
   <img src="https://media.giphy.com/media/EOmYN5kVP3W2Lyn6dx/giphy.gif" width="200"/>
 </div>
+
+---
+
+### :fire: Моя статистика :
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=ElenaSharnina&theme=dark&background=000000)](https://git.io/streak-stats)
